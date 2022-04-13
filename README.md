@@ -8,18 +8,28 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+
+In this lab, I learned how to create a class, work with strings, and how to use my class as a module. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 0
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+
 
 ## REFERENCES:
- < List any outside resources used >
+
+https://www.geeksforgeeks.org/python-program-to-find-the-sum-of-characters-ascii-values-in-string-list/
+
+https://www.ictdemy.com/python/basics/strings-in-python-working-with-single-characters
+
+https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/#:~:text=Output%3A%20True%20False-,lower(),all%20uppercase%20characters%20to%20lowercase.
+
+https://www.geeksforgeeks.org/python-remove-all-characters-except-letters-and-numbers/
+
+https://www.programiz.com/python-programming/break-continue
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ 
